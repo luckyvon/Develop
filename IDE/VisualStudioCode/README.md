@@ -1,4 +1,7 @@
 # VSCode
+
+* [非常全的VsCode快捷键](https://blog.csdn.net/p358278505/article/details/74221214)
+
 ## 常用快捷键
 > CMD + p 查找
 
