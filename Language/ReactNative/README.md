@@ -5,3 +5,4 @@
 * [使用VSCode打造现代化的ReactNative开发环境](https://github.com/le0zh/blog/issues/1)
 * [Redux](http://www.cnblogs.com/ChrisZhou666/p/9374660.html)
 * [styled-components](https://www.jianshu.com/p/6e3b5fb60211)
+* [ES6这些就够了](https://www.jianshu.com/p/287e0bb867ae)
