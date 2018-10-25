@@ -1,13 +1,13 @@
 # VSCode
 ###常用快捷键
-> CMD + p
+> CMD + p    
 查找
 
-> CMD + 点击
+> CMD + 点击    
 跳转到对应方法
 
-> CTRL + -
+> CTRL + -    
 返回
 
-> CTRL + SHIFT + -
+> CTRL + SHIFT + -    
 反向返回
