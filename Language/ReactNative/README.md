@@ -6,3 +6,4 @@
 * [Redux](http://www.cnblogs.com/ChrisZhou666/p/9374660.html)
 * [styled-components](https://www.jianshu.com/p/6e3b5fb60211)
 * [ES6这些就够了](https://www.jianshu.com/p/287e0bb867ae)
+* [bsdiff增量包](https://www.cnblogs.com/rainboy2010/p/7400317.html)
