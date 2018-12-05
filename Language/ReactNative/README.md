@@ -7,3 +7,6 @@
 * [styled-components](https://www.jianshu.com/p/6e3b5fb60211)
 * [ES6这些就够了](https://www.jianshu.com/p/287e0bb867ae)
 * [bsdiff增量包](https://www.cnblogs.com/rainboy2010/p/7400317.html)
+* [RN Icon font库](https://www.cnblogs.com/moxiaoyan33/p/5482024.html)
+* [tabbar](https://www.jianshu.com/p/a730190994c2)
+* [navigation](https://www.jianshu.com/p/2f575cc35780)
