@@ -11,3 +11,4 @@
 * [tabbar](https://www.jianshu.com/p/a730190994c2)
 * [navigation](https://www.jianshu.com/p/2f575cc35780)
 * [Redux入门](https://www.jianshu.com/p/faa98d8bd3fa)
+* [react-navigation使用详解](https://www.jianshu.com/p/5c070a302192)
