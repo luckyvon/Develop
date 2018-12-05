@@ -10,3 +10,4 @@
 * [RN Icon font库](https://www.cnblogs.com/moxiaoyan33/p/5482024.html)
 * [tabbar](https://www.jianshu.com/p/a730190994c2)
 * [navigation](https://www.jianshu.com/p/2f575cc35780)
+* [Redux入门](https://www.jianshu.com/p/faa98d8bd3fa)
